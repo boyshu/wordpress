@@ -1,0 +1,964 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sahifa 1.3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-01-25 16:19+0800\n"
+"PO-Revision-Date: 2014-01-25 16:20+0800\n"
+"Last-Translator: 逍遥乐汉化 <luoxiao123@outlook.com>\n"
+"Language-Team: Tielabs <info@tielabs.com>\n"
+"Language: en_EG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:6 ../loop.php:3 ../page.php:7 ../single.php:9
+#: ../template-authors.php:12 ../template-best-reviews.php:12
+#: ../template-blog.php:12 ../template-feed.php:12 ../template-login.php:12
+#: ../template-restrict.php:12 ../template-sitemap.php:12
+#: ../template-tags.php:12 ../template-timeline.php:12
+#: ../includes/breadcrumbs.php:103
+msgid "Not Found"
+msgstr "未找到"
+
+#: ../404.php:9
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help."
+msgstr "抱歉，您浏览的页面未找到。也许搜索能帮到您。"
+
+#: ../404.php:13 ../template-sitemap.php:42
+msgid "Pages"
+msgstr "页面"
+
+#: ../404.php:18 ../template-sitemap.php:47
+msgid "Categories"
+msgstr "分类"
+
+#: ../404.php:23 ../template-sitemap.php:52
+#: ../includes/widgets/widget-tabbed.php:24
+msgid "Tags"
+msgstr "标签"
+
+#: ../404.php:35 ../template-sitemap.php:64
+msgid "Authors"
+msgstr "作者"
+
+#: ../archive.php:9
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr "日归档：<span>%s</span>"
+
+#: ../archive.php:11
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr "月归档: <span>%s</span>"
+
+#: ../archive.php:13
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr "年归档: <span>%s</span>"
+
+#: ../archive.php:15
+msgid "Blog Archives"
+msgstr "博客"
+
+#: ../author.php:9 ../includes/breadcrumbs.php:98
+#, php-format
+msgid "Author Archives: %s"
+msgstr "作者归档: %s"
+
+#: ../author.php:12 ../category.php:10 ../tag.php:11
+msgid "Feed Subscription"
+msgstr "Feed订阅"
+
+#: ../author.php:27 ../template-authors.php:65
+#: ../functions/theme-functions.php:230 ../functions/theme-functions.php:1322
+msgid " 's site"
+msgstr "的网站"
+
+#: ../author.php:30 ../template-authors.php:68
+#: ../functions/theme-functions.php:233 ../functions/theme-functions.php:1325
+msgid "  on Twitter"
+msgstr "在 Twitter"
+
+#: ../author.php:33 ../template-authors.php:71
+#: ../functions/theme-functions.php:236 ../functions/theme-functions.php:1328
+msgid "  on Facebook"
+msgstr "在 Facebook"
+
+#: ../author.php:36 ../template-authors.php:74
+#: ../functions/theme-functions.php:239 ../functions/theme-functions.php:1331
+msgid "  on Google+"
+msgstr "在 Google+"
+
+#: ../author.php:39 ../template-authors.php:77
+#: ../functions/theme-functions.php:242 ../functions/theme-functions.php:1334
+msgid "  on Linkedin"
+msgstr "在 Linkedin"
+
+#: ../author.php:42 ../template-authors.php:80
+#: ../functions/theme-functions.php:245 ../functions/theme-functions.php:1337
+msgid "  on Flickr"
+msgstr "在 Flickr"
+
+#: ../author.php:45 ../template-authors.php:83
+#: ../functions/theme-functions.php:248 ../functions/theme-functions.php:1340
+msgid "  on YouTube"
+msgstr "在 Youtube"
+
+#: ../author.php:48 ../template-authors.php:86
+#: ../functions/theme-functions.php:251 ../functions/theme-functions.php:1343
+msgid "  on Pinterest"
+msgstr "在 Pinterest"
+
+#: ../author.php:51 ../template-authors.php:89
+#: ../functions/theme-functions.php:254 ../functions/theme-functions.php:1346
+msgid "  on Behance"
+msgstr "在 Behance"
+
+#: ../author.php:54 ../template-authors.php:92
+#: ../functions/theme-functions.php:257 ../functions/theme-functions.php:1349
+msgid "  on Instagram"
+msgstr "在 Instagram"
+
+#: ../comments.php:3
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr "这篇文章受密码保护。输入密码以查看评论。"
+
+#: ../comments.php:12
+msgid "No comments"
+msgstr "无评论"
+
+#: ../comments.php:12
+msgid "One comment"
+msgstr "1条评论"
+
+#: ../comments.php:12
+msgid "comments"
+msgstr "评论"
+
+#: ../comments.php:17
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> 早期评论"
+
+#: ../comments.php:18
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "较新评论 <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../comments.php:34
+msgid "Comments are closed."
+msgstr "评论已关闭。"
+
+#: ../comments.php:46
+msgid "Name"
+msgstr "名字"
+
+#: ../comments.php:48
+msgid "Email"
+msgstr "电子邮件"
+
+#: ../comments.php:50
+msgid "Website"
+msgstr "网站"
+
+#: ../comments.php:53
+msgid " Required fields are marked"
+msgstr "必填项已被标记为"
+
+#: ../comments.php:57
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "要发表评论，您必须先<a href=\"%s\">登录</a>。"
+
+#: ../comments.php:58
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"登录为<a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"退出此账户\">退出?"
+"</a>"
+
+#: ../comments.php:59
+msgid "Your email address will not be published."
+msgstr "你的电子邮件地址不会被公开。"
+
+#: ../comments.php:60
+msgid "Leave a Reply"
+msgstr "发表评论"
+
+#: ../comments.php:61
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "回复 %s"
+
+#: ../comments.php:62
+msgid "Cancel reply"
+msgstr "取消回复Antwort abbrechen"
+
+#: ../comments.php:63
+msgid "Post Comment"
+msgstr "发表评论"
+
+#: ../footer.php:27
+msgid "Scroll To Top"
+msgstr "返回顶部"
+
+#: ../header.php:34
+msgid "Search"
+msgstr "搜索"
+
+#: ../header.php:35
+msgid "Search..."
+msgstr "搜索…"
+
+#: ../header.php:126
+msgid "Random Article"
+msgstr "完整文章"
+
+#: ../index.php:23
+msgid "You can use Homepage builder to build your homepage"
+msgstr "你可以使用首页生成器生成首页"
+
+#: ../loop.php:5 ../page.php:9 ../single.php:11 ../template-authors.php:14
+#: ../template-best-reviews.php:14 ../template-blog.php:14
+#: ../template-feed.php:14 ../template-login.php:14
+#: ../template-restrict.php:14 ../template-sitemap.php:14
+#: ../template-tags.php:14 ../template-timeline.php:14
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr "抱歉，您访问的归档页面未找到。也许搜索能帮到您。"
+
+#: ../loop.php:20 ../loop.php:33 ../loop.php:52
+#: ../functions/home-cat-tabs.php:42 ../functions/home-cats.php:51
+#: ../functions/home-cats.php:102 ../functions/home-cats.php:153
+#: ../functions/home-recent-box.php:37 ../functions/home-recent-box.php:53
+msgid "Read More &raquo;"
+msgstr "查看更多»"
+
+#: ../page.php:46 ../single.php:49 ../template-authors.php:38
+#: ../template-best-reviews.php:37 ../template-feed.php:38
+#: ../template-login.php:38 ../template-restrict.php:41
+#: ../template-sitemap.php:38 ../template-tags.php:38
+#: ../template-timeline.php:37
+msgid "Pages:"
+msgstr "页面"
+
+#: ../page.php:50 ../single.php:53 ../template-authors.php:101
+#: ../template-best-reviews.php:72 ../template-feed.php:42
+#: ../template-login.php:40 ../template-restrict.php:46
+#: ../template-sitemap.php:70 ../template-tags.php:50
+#: ../template-timeline.php:76
+msgid "Edit"
+msgstr "编辑"
+
+#: ../search.php:9 ../includes/breadcrumbs.php:86
+#, php-format
+msgid "Search Results for: %s"
+msgstr " %s  的搜索结果"
+
+#: ../search.php:11
+msgid "Nothing Found"
+msgstr "未找到"
+
+#: ../search.php:23
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr "抱歉，没有符合您搜索条件的结果。请换其它关键词再试。"
+
+#: ../single.php:67
+msgid "Tagged with: "
+msgstr "标签："
+
+#: ../single.php:80
+msgid "About"
+msgstr "关于"
+
+#: ../single.php:91
+msgid "Previous:"
+msgstr "上一篇："
+
+#: ../single.php:92
+msgid "Next:"
+msgstr "下一篇："
+
+#: ../tag.php:7 ../includes/breadcrumbs.php:91
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "标签归档: %s"
+
+#: ../template-best-reviews.php:60 ../includes/post-meta.php:6
+msgid "Posted by: "
+msgstr "发布者："
+
+#: ../template-best-reviews.php:62 ../includes/post-meta.php:9
+msgid "on "
+msgstr "在"
+
+#: ../template-best-reviews.php:64 ../includes/post-meta.php:12
+msgid "in "
+msgstr "分类："
+
+#: ../template-restrict.php:43
+msgid "You must be "
+msgstr "你必须"
+
+#: ../template-restrict.php:43
+msgid "logged in"
+msgstr "登录"
+
+#: ../template-restrict.php:43
+msgid " to view this page."
+msgstr "浏览这个页面"
+
+#: ../template-timeline.php:61 ../functions/theme-functions.php:844
+#: ../functions/theme-functions.php:868 ../functions/theme-functions.php:915
+#: ../functions/theme-functions.php:938 ../functions/theme-functions.php:978
+#: ../includes/post-related.php:36 ../includes/post-related.php:42
+#, php-format
+msgid "Permalink to %s"
+msgstr "永久链接到 %s"
+
+#: ../functions/common-scripts.php:176 ../functions/theme-functions.php:71
+msgid "Go to..."
+msgstr "前往…"
+
+#: ../functions/common-scripts.php:177 ../functions/theme-functions.php:1630
+#: ../functions/theme-functions.php:1636
+msgid "Your Rating:"
+msgstr "你的评分:"
+
+#: ../functions/theme-functions.php:29
+msgid "Top Menu Navigation"
+msgstr "顶部菜单导航"
+
+#: ../functions/theme-functions.php:30
+msgid "Primary Navigation"
+msgstr "主导航"
+
+#: ../functions/theme-functions.php:55
+msgid "You can use WP menu builder to build menus"
+msgstr "您可以使用WP菜单生成器生成菜单"
+
+#: ../functions/theme-functions.php:693
+msgid "Social Networking"
+msgstr "社交网络"
+
+#: ../functions/theme-functions.php:783
+msgid "No items."
+msgstr "没有项目。"
+
+#: ../functions/theme-functions.php:788
+msgid "Posted "
+msgstr "发表"
+
+#: ../functions/theme-functions.php:1313
+msgid "Welcome"
+msgstr "欢迎"
+
+#: ../functions/theme-functions.php:1316
+msgid "Dashboard"
+msgstr "仪表盘"
+
+#: ../functions/theme-functions.php:1317
+msgid "Your Profile"
+msgstr "你的个人资料"
+
+#: ../functions/theme-functions.php:1318
+msgid "Logout"
+msgstr "登出"
+
+#: ../functions/theme-functions.php:1358
+msgid "Username"
+msgstr "用户名"
+
+#: ../functions/theme-functions.php:1359
+msgid "Password"
+msgstr "密码"
+
+#: ../functions/theme-functions.php:1360
+msgid "Log in"
+msgstr "登录"
+
+#: ../functions/theme-functions.php:1361
+msgid "Remember Me"
+msgstr "记住我的登录信息"
+
+#: ../functions/theme-functions.php:1366
+msgid "Lost your password?"
+msgstr "忘记密码？"
+
+#: ../functions/theme-functions.php:1447
+#: ../includes/widgets/widget-reviews.php:42
+msgid "Review Overview"
+msgstr "回顾概览"
+
+#: ../functions/theme-functions.php:1504
+msgid "Summary :"
+msgstr "摘要："
+
+#: ../functions/theme-functions.php:1607
+msgid "No Ratings Yet !"
+msgstr "没有评分呢！"
+
+#: ../functions/theme-functions.php:1611
+msgid "Be the first one !"
+msgstr "是第一个！"
+
+#: ../functions/theme-functions.php:1630 ../functions/theme-functions.php:1636
+#: ../functions/theme-functions.php:1643
+msgid "votes"
+msgstr "投票"
+
+#: ../functions/theme-functions.php:1641 ../functions/theme-functions.php:1643
+msgid "User Rating:"
+msgstr "用户评分："
+
+#: ../functions/theme-functions.php:1663 ../functions/theme-functions.php:1670
+#: ../functions/theme-functions.php:1676 ../functions/theme-functions.php:1682
+msgid "ago"
+msgstr "以前"
+
+#: ../functions/theme-functions.php:1839
+#, php-format
+msgid "Page %s"
+msgstr "页面 %s"
+
+#: ../functions/widgetize-theme.php:13
+msgid "Primary Widget Area"
+msgstr "主要小工具区域"
+
+#: ../functions/widgetize-theme.php:15
+msgid "The Primary widget area"
+msgstr "主要小工具区域"
+
+#: ../functions/widgetize-theme.php:21 ../panel/category-options.php:16
+#: ../panel/mpanel-ui.php:1781 ../panel/post-options.php:212
+#: ../panel/post-options.php:609
+msgid "Shop - For WooCommerce Pages"
+msgstr "商城 - WooCommerce页"
+
+#: ../functions/widgetize-theme.php:23
+msgid "This widget area uses in the WooCommerce pages ."
+msgstr "这个小工具区域使用WooCommerce页。"
+
+#: ../functions/widgetize-theme.php:53
+msgid "First Footer Widget Area"
+msgstr "第一页脚小工具区域"
+
+#: ../functions/widgetize-theme.php:55
+msgid "The first footer widget area"
+msgstr "第一页脚小工具区域"
+
+#: ../functions/widgetize-theme.php:61
+msgid "Second Footer Widget Area"
+msgstr "第二页脚小工具区域"
+
+#: ../functions/widgetize-theme.php:63
+msgid "The Second footer widget area"
+msgstr "第二页脚小工具区域"
+
+#: ../functions/widgetize-theme.php:70
+msgid "Third Footer Widget Area"
+msgstr "第三页脚小工具区域"
+
+#: ../functions/widgetize-theme.php:72
+msgid "The Third footer widget area"
+msgstr "第三页脚小工具区域"
+
+#: ../functions/widgetize-theme.php:79
+msgid "Fourth Footer Widget Area"
+msgstr "第四页脚小工具区域"
+
+#: ../functions/widgetize-theme.php:81
+msgid "The Fourth footer widget area"
+msgstr "第四页脚小工具区域"
+
+#: ../includes/archives-meta.php:16 ../includes/boxes-meta.php:16
+#: ../includes/post-meta.php:15
+msgid "Leave a comment"
+msgstr "发表评论"
+
+#: ../includes/archives-meta.php:16 ../includes/boxes-meta.php:16
+#: ../includes/post-meta.php:15
+msgid "1 Comment"
+msgstr "1条评论"
+
+#: ../includes/archives-meta.php:16 ../includes/boxes-meta.php:16
+#: ../includes/post-meta.php:15
+msgid "% Comments"
+msgstr "% 评论"
+
+#: ../includes/breadcrumbs.php:15
+msgid "Home"
+msgstr "首页"
+
+#: ../includes/breadcrumbs.php:109
+msgid "page "
+msgstr "页面"
+
+#: ../includes/breaking-news.php:18
+msgid "Breaking News"
+msgstr "实时新闻"
+
+#: ../includes/pagenavi.php:159
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr "第%CURRENT_PAGE%页 共 %TOTAL_PAGES% 页"
+
+#: ../includes/pagenavi.php:162
+msgid "&laquo; First"
+msgstr "« 首页"
+
+#: ../includes/pagenavi.php:163
+msgid "Last &raquo;"
+msgstr "尾页 »"
+
+#: ../includes/pagenavi.php:164
+msgid "&raquo;"
+msgstr " »"
+
+#: ../includes/pagenavi.php:165
+msgid "&laquo;"
+msgstr "« "
+
+#: ../includes/pagenavi.php:166 ../includes/pagenavi.php:167
+msgid "..."
+msgstr "..."
+
+#: ../includes/post-related.php:29
+msgid "Related Articles"
+msgstr "相关文章"
+
+#: ../includes/post-share.php:7
+msgid "Share !"
+msgstr "分享 !"
+
+#: ../includes/wp_list_comments.php:9
+#, php-format
+msgid "%s "
+msgstr "%s "
+
+#: ../includes/wp_list_comments.php:10
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s  %2$s"
+
+#: ../includes/wp_list_comments.php:10 ../includes/wp_list_comments.php:30
+msgid "(Edit)"
+msgstr "(编辑)"
+
+#: ../includes/wp_list_comments.php:15
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正在等待审核。"
+
+#: ../includes/wp_list_comments.php:30
+msgid "Pingback:"
+msgstr "Pingback 引用通告："
+
+#: ../includes/widgets/widget-ads.php:78
+#: ../includes/widgets/widget-ads.php:198
+#: ../includes/widgets/widget-ads.php:320
+#: ../includes/widgets/widget-ads.php:441
+#: ../includes/widgets/widget-ads.php:562
+#: ../includes/widgets/widget-ads.php:709
+#: ../includes/widgets/widget-ads.php:817
+#: ../includes/widgets/widget-ads.php:926
+#: ../includes/widgets/widget-ads.php:1038
+#: ../includes/widgets/widget-ads.php:1150
+msgid " Advertisement"
+msgstr "广告"
+
+#: ../includes/widgets/widget-author.php:23
+#, php-format
+msgid "About %s"
+msgstr "关于 %s"
+
+#: ../includes/widgets/widget-author.php:91
+#, php-format
+msgid "By %s"
+msgstr "作者： %s"
+
+#: ../includes/widgets/widget-author.php:99
+msgid "All"
+msgstr "全部"
+
+#: ../includes/widgets/widget-authors-posts.php:46
+msgid "Authors Posts"
+msgstr "作者帖子"
+
+#: ../includes/widgets/widget-category.php:46
+msgid "Category Posts"
+msgstr "分类文章"
+
+#: ../includes/widgets/widget-comments-avatar.php:42
+msgid "Recent Comments"
+msgstr "最新评论"
+
+#: ../includes/widgets/widget-counter.php:51
+#: ../includes/widgets/widget-feedburner.php:30
+msgid "Subscribe"
+msgstr "订阅"
+
+#: ../includes/widgets/widget-counter.php:51
+#: ../includes/widgets/widget-counter.php:82
+#: ../includes/widgets/widget-counter.php:92
+msgid "Subscribers"
+msgstr "捐助者"
+
+#: ../includes/widgets/widget-counter.php:52
+msgid "To RSS Feed"
+msgstr "去RSS订阅"
+
+#: ../includes/widgets/widget-counter.php:62
+#: ../includes/widgets/widget-counter.php:102
+#: ../includes/widgets/widget-counter.php:112
+#: ../includes/widgets/widget-counter.php:122
+#: ../includes/widgets/widget-counter.php:132
+msgid "Followers"
+msgstr "粉丝"
+
+#: ../includes/widgets/widget-counter.php:72
+msgid "Fans"
+msgstr "粉丝"
+
+#: ../includes/widgets/widget-custom-author.php:52
+msgid "About Author"
+msgstr "关于作者"
+
+#: ../includes/widgets/widget-facebook.php:44
+msgid "Find us on Facebook"
+msgstr "加入我们的 Facebook"
+
+#: ../includes/widgets/widget-feedburner.php:27
+msgid "Enter your e-mail address"
+msgstr "输入您的默认邮箱地址。"
+
+#: ../includes/widgets/widget-feedburner.php:51
+msgid "FeedBurner Widget"
+msgstr "FeedBurner小工具"
+
+#: ../includes/widgets/widget-feedburner.php:51
+msgid "Subscribe to our email newsletter."
+msgstr "订阅我们的电子报。"
+
+#: ../includes/widgets/widget-flickr.php:44
+msgid "Flickr"
+msgstr "Flickr"
+
+#: ../includes/widgets/widget-google.php:53
+msgid "Follow us on Google+"
+msgstr "关注我们的谷歌+"
+
+#: ../includes/widgets/widget-login.php:35
+msgid "Login"
+msgstr "登录"
+
+#: ../includes/widgets/widget-news-pic.php:44
+msgid "News in Pictures"
+msgstr "新闻图片"
+
+#: ../includes/widgets/widget-posts.php:55
+msgid "Recent Posts"
+msgstr "最新文章"
+
+#: ../includes/widgets/widget-search.php:15
+msgid "to search type and hit enter"
+msgstr "搜索类型并敲回车键"
+
+#: ../includes/widgets/widget-social.php:51
+msgid "Social"
+msgstr "社交"
+
+#: ../includes/widgets/widget-tabbed.php:21
+msgid "Popular"
+msgstr "热门文章"
+
+#: ../includes/widgets/widget-tabbed.php:22
+msgid "Recent"
+msgstr "最新文章"
+
+#: ../includes/widgets/widget-tabbed.php:23
+msgid "Comments"
+msgstr "最新评论"
+
+#: ../includes/widgets/widget-text-html.php:61
+msgid "Text"
+msgstr "文本"
+
+#: ../includes/widgets/widget-twitter.php:107
+#, php-format
+msgid "%s ago"
+msgstr "%s 以前"
+
+#: ../includes/widgets/widget-twitter.php:109
+msgid "Y/m/d"
+msgstr "年/月/日"
+
+#: ../includes/widgets/widget-twitter.php:110
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../includes/widgets/widget-twitter.php:110
+msgid "Y/m/d H:i:s"
+msgstr ""
+
+#: ../includes/widgets/widget-twitter.php:150
+msgid "@Follow Me"
+msgstr "@关于我"
+
+#: ../includes/widgets/widget-video.php:63
+msgid " Featured Video"
+msgstr "特色视频"
+
+#: ../includes/widgets/widget-youtube.php:40
+msgid "Subscribe to our Channel"
+msgstr "订阅我们的途径"
+
+#: ../panel/mpanel-functions.php:128
+msgid "Use this image"
+msgstr "使用此图片"
+
+#: ../panel/importer/parsers.php:42 ../panel/importer/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr "阅读这个WXR文件时发生错误"
+
+#: ../panel/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr "详情如上图所示。该导入器现在将再次尝试与不同的解析器..."
+
+#: ../panel/importer/parsers.php:67 ../panel/importer/parsers.php:72
+#: ../panel/importer/parsers.php:262 ../panel/importer/parsers.php:451
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr "这不似乎是一个WXR文件，缺少/无效WXR版本号"
+
+#: ../panel/importer/wordpress-importer.php:134
+#: ../panel/importer/wordpress-importer.php:143
+#: ../panel/importer/wordpress-importer.php:194
+#: ../panel/importer/wordpress-importer.php:198
+#: ../panel/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr "对不起，出现了一个错误。"
+
+#: ../panel/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr "该文件不存在，请重试。"
+
+#: ../panel/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr "全部完成。"
+
+#: ../panel/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr "有乐趣！"
+
+#: ../panel/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr "记住更新导入的用户的密码和角色。"
+
+#: ../panel/importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr "导出文件未能在<code>%s</code>的发现。很可能，这是由权限问题引起的。"
+
+#: ../panel/importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr "这WXR文件（版本%s）可能不是这个版本的导入的支持。请考虑更新。"
+
+#: ../panel/importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr "无法导入的作者 %s。他们的文章将被归结为当前用户。"
+
+#: ../panel/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr "作者指定"
+
+#: ../panel/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+"为了让您更轻松地编辑，储存导入的内容，你可能要重新分配导入项目的作者本网站的"
+"现有用户。例如，您可能要导入的所有条目的<code>管理员</code>的条目存储。"
+
+#: ../panel/importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+"如果一个新用户在WordPress中创建一个新的密码将随机产生新的用户角色将被设置为%s"
+"的。手动更改新用户的详细信息将是必要的。"
+
+#: ../panel/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr "导入附件"
+
+#: ../panel/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr "下载并导入文件附件"
+
+#: ../panel/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr "关于作者"
+
+#: ../panel/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr "或者创建并登录新用户："
+
+#: ../panel/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr "新用户："
+
+#: ../panel/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr "文章分配给现有用户："
+
+#: ../panel/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr "或文章分配给现有用户："
+
+#: ../panel/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr "- 请选择 -"
+
+#: ../panel/importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr "无法创建 %s的新用户。他们的文章将被归结为当前用户。"
+
+#: ../panel/importer/wordpress-importer.php:423
+#, php-format
+msgid "Failed to import category %s"
+msgstr "无法导入分类 %s"
+
+#: ../panel/importer/wordpress-importer.php:461
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr "无法导入文章标签 %s"
+
+#: ../panel/importer/wordpress-importer.php:505
+#: ../panel/importer/wordpress-importer.php:631
+#, php-format
+msgid "Failed to import %s %s"
+msgstr "无法导入 %s %s"
+
+#: ../panel/importer/wordpress-importer.php:527
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr "无法导入 &#8220;%s&#8221;: 无效的文章类型 %s"
+
+#: ../panel/importer/wordpress-importer.php:548
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr "%s &#8220;%s&#8221; 已经存在。"
+
+#: ../panel/importer/wordpress-importer.php:603
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr "无法导入%s &#8220;%s&#8221;"
+
+#: ../panel/importer/wordpress-importer.php:749
+msgid "Menu item skipped due to missing menu slug"
+msgstr "菜单项跳过由于缺少菜单单元"
+
+#: ../panel/importer/wordpress-importer.php:756
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr "菜单项跳过由于无效的菜单单元： %s"
+
+#: ../panel/importer/wordpress-importer.php:819
+msgid "Fetching attachments is not enabled"
+msgstr "提取附件未启用"
+
+#: ../panel/importer/wordpress-importer.php:832
+msgid "Invalid file type"
+msgstr "无效的文件类型"
+
+#: ../panel/importer/wordpress-importer.php:876
+msgid "Remote server did not respond"
+msgstr "远程服务器没有响应"
+
+#: ../panel/importer/wordpress-importer.php:882
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "远程服务器返回错误响应 %1$d %2$s"
+
+#: ../panel/importer/wordpress-importer.php:889
+msgid "Remote file is incorrect size"
+msgstr "远程文件尺寸不正确"
+
+#: ../panel/importer/wordpress-importer.php:894
+msgid "Zero size file downloaded"
+msgstr "下载大小为零的文件"
+
+#: ../panel/importer/wordpress-importer.php:900
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr "远程文件过大，限制为 %s"
+
+#: ../panel/importer/wordpress-importer.php:999
+msgid "Import WordPress"
+msgstr "关于作者"
+
+#: ../panel/importer/wordpress-importer.php:1006
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr "这个导入的新版本可用。请更新到版本%s，以确保与新的导出文件的兼容性。"
+
+#: ../panel/importer/wordpress-importer.php:1021
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+"你好！上传您的WordPress eXtended RSS（WXR）文件我们将会完成文章，页面，评论，"
+"自定义域，分类目录，并进入该网站的标签。"
+
+#: ../panel/importer/wordpress-importer.php:1022
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr "选择一个WXR（XML）文件上传，然后点击上传文件并导入。"
+
+#: ../panel/shortcodes/shortcode.php:396
+msgid "About The Author"
+msgstr "关于作者"
+
+#: ../woocommerce/single-product/related.php:38
+msgid "Related Products"
+msgstr "相关产品"
+
+#~ msgid "Category Archives: %s"
+#~ msgstr "Kategorie Archiv: %s"
+
+#~ msgid "Register"
+#~ msgstr "Registrieren"
+
+#~ msgid "You are here:"
+#~ msgstr "Du bist hier:"
